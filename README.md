@@ -60,5 +60,6 @@ Real-time data integration
 
 ---
 👤 Author
-Rubeshkanna R S  
+
+Rubeshkanna Ravichandran 
 Aspiring Data Analyst | Python | Power BI
